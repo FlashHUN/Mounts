@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[39,)"
+license="All Rights Reserved"
+[[mods]]
+modId="mounts"
+version="${file.jarVersion}"
+displayName="Mounts"
+authors="FlashHUN"
+credits="https://github.com/Kay9Unit/Dragon-Mounts-Legacy"
+description='''
+Allows you to turn any mob into a summonable mount!
+'''
+[[dependencies.mounts]]
+   modId="forge"
+   mandatory=true
+   versionRange="[39,)"
+   ordering="NONE"
+   side="BOTH"
+[[dependencies.mounts]]
+   modId="minecraft"
+   mandatory=true
+   versionRange="[1.18.1,1.19)"
+   ordering="NONE"
+   side="BOTH"

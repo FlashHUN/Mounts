@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mounts:block/mount_bench"
+    }
+  }
+}

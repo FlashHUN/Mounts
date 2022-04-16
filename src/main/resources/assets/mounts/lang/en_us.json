@@ -1,0 +1,20 @@
+{
+  "key.mounts.category": "Mounts",
+  "key.mounts.summon_mount": "Summon Active Mount",
+  "key.mounts.mount_menu": "Mounts",
+  "key.mounts.descent": "Descent",
+  "key.mounts.use_ability": "Use Ability",
+  "key.mounts.mount_bench_next": "Next (Mount Bench)",
+
+  "block.mounts.mount_bench": "Mount Bench",
+
+  "item.mounts.mount_bench": "Mount Bench",
+
+  "entity.mounts.unknown": "Unknown",
+
+  "msg.mounts.unlocked_mount": "Unlocked %s",
+
+  "tooltip.mounts.unlock": "Unlocks Mount: %s",
+
+  "widget.mounts.mount.speed": "Speed: %s"
+}

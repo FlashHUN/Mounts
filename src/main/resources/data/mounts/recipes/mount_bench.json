@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#B#",
+    "LGL"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:lime_concrete"
+    },
+    "B": {
+      "item": "minecraft:blackstone"
+    },
+    "L": {
+      "item": "minecraft:light_gray_concrete"
+    },
+    "G": {
+      "item": "minecraft:glowstone"
+    }
+  },
+  "result": {
+    "item": "mounts:mount_bench",
+    "count": 1
+  }
+}
